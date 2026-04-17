@@ -5,7 +5,7 @@
    Meta-Scientific Exploration" by Zhuoqi Liu (Northeastern University, 2026).
    
    Thesis advisor: Nabeel Gillani
-   Co-advisor: Dakota Murray
+   Co-advisor: Dakota Murray and Alina Lungeanu
    
    ## Contents
    
